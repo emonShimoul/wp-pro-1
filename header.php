@@ -5,8 +5,7 @@
 	URL: http://freehtml5.co
 -->
 <html>
-<head>
-    <meta charset="utf-8">
-    <?php wp_head();?>
-
-</head>
+	<head>
+	    <meta charset="utf-8">
+        <?php wp_head(); ?>
+	</head>
